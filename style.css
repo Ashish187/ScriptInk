@@ -1,0 +1,137 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    background: #f3f9fbf3;
+}
+#title{
+ /* background-image:linear-gradient(to bottom,#eb85d0ac,#35708e) ;*/
+ background: url("/img/15229.jpg") no-repeat center center fixed ; 
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+    }
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    background: -webkit-linear-gradient( #d37a26,#ffcc24);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#def{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #328ec7;
+}
+.intro{
+    color: #03103d;
+}
+.tagline{
+    font-size: 1.5rem;
+    margin-top: 0; 
+}
+#iphone{
+    width: 60%;
+   margin-left: 30%;
+   transform: rotate(-25deg);
+
+}
+.container-fluid{
+padding: 3% 15%;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size:2.5em;
+    font-weight: bold;
+    color: #ffffff;
+}
+.nav-item{
+    padding: 0 15px 0 0;
+}
+.custom:hover{
+    color: #35708e;
+}
+.nav-link{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+.about{
+    text-align: center;
+    color: #2a6767;
+    font-size: 1.5rem;
+    margin-bottom: 10%;
+}
+hr{
+    border: 8px dotted  #35708e;
+    border-bottom: none;
+    width:8%;
+    margin: 20px auto 20px auto;
+    
+}
+#scriptink-family{
+    border: solid 20px skyblue;
+    border-radius: 10px;
+    display: block;
+    width: 65%;
+    margin: 50px auto 50px auto;
+    position: relative;
+}
+a{
+  color: #4dccff;
+}
+a:hover{
+    color: #1c3b56ac;
+}
+.contact-logo{
+    padding: 0 5% 0 0;
+}
+.quotes{
+   /* background-image: linear-gradient(to bottom,white,#35708e);*/
+   background: url("/img/3159557.jpg") no-repeat center center fixed;
+   background-size: cover;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: "Montserrat";
+    color: #03103d;
+}
+.quote-para{
+    margin: 8% auto;
+}
+.carousel-item{
+padding: 7% 15%;
+}
+.about-app{
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Quicksand', sans-serif;
+}
+h2{
+    font-weight: bold;
+}
+.logo{
+    border-radius: 100%;
+}
+#scriptink-family:hover{
+    width: 68%;
+}
+nav .navbar-nav li a{
+    color: #475ca9 !important;
+    }
+nav .navbar-nav li a:hover{
+ color: rgb(30, 93, 125) !important;
+ }
+ .contact{
+padding: 7% 15%;
+background:url("/img/19566.jpg") center center fixed no-repeat;
+background-size: cover;
+color:  #124273cb;
+ }
+ .copyright{
+     text-align: center;
+ }
