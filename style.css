@@ -4,7 +4,7 @@ body{
 }
 #title{
  /* background-image:linear-gradient(to bottom,#eb85d0ac,#35708e) ;*/
- background: url("/img/15229.jpg") no-repeat center center fixed ; 
+ background: url("15229.jpg") no-repeat center center fixed ; 
  -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
@@ -93,7 +93,7 @@ a:hover{
 }
 .quotes{
    /* background-image: linear-gradient(to bottom,white,#35708e);*/
-   background: url("/img/3159557.jpg") no-repeat center center fixed;
+   background: url("3159557.jpg") no-repeat center center fixed;
    background-size: cover;
     text-align: center;
     font-size: 1.5rem;
@@ -128,7 +128,7 @@ nav .navbar-nav li a:hover{
  }
  .contact{
 padding: 7% 15%;
-background:url("/img/19566.jpg") center center fixed no-repeat;
+background:url("19566.jpg") center center fixed no-repeat;
 background-size: cover;
 color:  #124273cb;
  }
