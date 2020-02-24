@@ -3,11 +3,7 @@ body{
     background: #f3f9fbf3;
 }
 #title{
- /* background-image:linear-gradient(to bottom,#eb85d0ac,#35708e) ;*/
- background: url("15229.jpg") no-repeat center center fixed ; 
- -webkit-background-size: cover;
- -moz-background-size: cover;
- -o-background-size: cover;
+ background: url("19951.jpg") no-repeat center center fixed ; 
  background-size: cover;
     }
 h1{
@@ -89,11 +85,11 @@ a:hover{
     color: #1c3b56ac;
 }
 .contact-logo{
-    padding: 15% 5% 0 0;
+    margin-top: 5%;
+    padding: 30% 5% 0 0;
 }
 .quotes{
-   /* background-image: linear-gradient(to bottom,white,#35708e);*/
-   background: url("3159557.jpg") no-repeat center center fixed;
+   background: url("15229.jpg") no-repeat center center fixed;
    background-size: cover;
     text-align: center;
     font-size: 1.5rem;
@@ -128,9 +124,10 @@ nav .navbar-nav li a:hover{
  }
  .contact{
 padding: 7% 15%;
-background:url("19566.jpg") center center fixed no-repeat;
+background:url("15229.jpg") center center fixed no-repeat;
 background-size: cover;
-color:  #124273cb;
+font-size: 1rem;
+color:  #d2e0eecb;
  }
  .copyright{
      text-align: center;
