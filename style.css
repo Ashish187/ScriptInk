@@ -2,6 +2,9 @@ body{
     font-family: 'Quicksand', sans-serif;
     background: #f3f9fbf3;
 }
+html{
+    scroll-behaviour:smooth;
+}
 #title{
  background: url("19951.jpg") no-repeat center center fixed ; 
  background-size: cover;
